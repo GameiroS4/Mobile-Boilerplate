@@ -1,0 +1,10 @@
+PRODUCT_BUNDLE_IDENTIFIER = $(BUNDLE_IDENTIFIER)$(BUNDLE_IDENTIFIER_APPEND)
+
+BUNDLE_DISPLAY_NAME = Boilerplate-mobile
+BUNDLE_IDENTIFIER = myapp.boilerplatemobile
+
+RUNTIME_URL = https:\/\/boilerplate-mobile-sandbox.mxapps.io/
+
+PRODUCT_NAME = BoilerplateMobi
+
+HERMES_ENABLED = NO
